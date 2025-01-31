@@ -1,6 +1,6 @@
 <img src="./images/home.png" alt="Star Wars Homepage" width="600">
 
-# Chu_Qiaoyi_Earbuds
+# Chu_Qiaoyi_Star Wars
 This is a repo for Star Wars character data from the SWAPI and displays a list of characters. Clicking on a character shows the movies they appeared in, along with a brief description. The page includes GSAP animations and supports responsive design for a smooth user experience. ✨
 
 
